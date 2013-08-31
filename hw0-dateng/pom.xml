@@ -6,7 +6,7 @@
   <scm>
     <developerConnection>darrentd</developerConnection>
     <url>scm:git:git@github.com:darrentd/hw0-dateng.git</url>
-    <connection>scm:git:git@github.com:darrentd/hw0-dateng.git</connection>
+    <connection>https://github.com/darrentd/hw0_dateng.git</connection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
