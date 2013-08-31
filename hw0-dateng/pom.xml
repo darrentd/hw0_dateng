@@ -1,13 +1,12 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f13.hw0</groupId>
   <artifactId>hw0-dateng</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <scm>
-    <connection>scm:git:git@github.com:darrentd/hw0-dateng.git</connection>
-    <developerConnection>scm:git:git@github.com:darrentd/hw0-dateng.git</developerConnection>
+    <developerConnection>darrentd</developerConnection>
+    <url>scm:git:git@github.com:darrentd/hw0-dateng.git</url>
+    <connection>https://github.com/darrentd/hw0_dateng.git</connection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
