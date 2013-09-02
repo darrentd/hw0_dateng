@@ -5,7 +5,7 @@
   <version>0.0.2-SNAPSHOT</version>
   <scm>
     <developerConnection>scm:git:https://github.com/darrentd/hw0_dateng.git</developerConnection>
-    <url>scm:git:git@github.com:darrentd/hw0-dateng.git</url>
+    <url>scm:git:https://github.com/darrentd/hw0_dateng.git</url>
     <connection>scm:git:https://github.com/darrentd/hw0_dateng.git</connection>
   </scm>
   <repositories><repository>
