@@ -4,7 +4,7 @@
   <artifactId>hw0-dateng</artifactId>
   <version>0.0.1</version>
   <scm>
-    <developerConnection>darrentd</developerConnection>
+    <developerConnection>scm:git:git@github.com:darrentd/hw0-dateng.git</developerConnection>
     <url>scm:git:git@github.com:darrentd/hw0-dateng.git</url>
     <connection>scm:git:git@github.com:darrentd/hw0-dateng.git</connection>
   </scm>
