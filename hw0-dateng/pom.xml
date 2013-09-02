@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f13.hw0</groupId>
   <artifactId>hw0-dateng</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.2-SNAPSHOT</version>
   <scm>
-    <developerConnection>scm:git:git@github.com:darrentd/hw0-dateng.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/darrentd/hw0_dateng.git</developerConnection>
     <url>scm:git:git@github.com:darrentd/hw0-dateng.git</url>
-    <connection>scm:git:git@github.com:darrentd/hw0-dateng.git</connection>
+    <connection>scm:git:https://github.com/darrentd/hw0_dateng.git</connection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
